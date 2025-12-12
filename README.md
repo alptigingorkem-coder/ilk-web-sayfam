@@ -3,4 +3,4 @@
 ## İçindekiler 
 * Başlık biçiminde ad, soyadım.
 * Daha küçük boyutta "Hakkımda" başlığı.
-* Hakkımda başlığı hakkında paragraf etiketi ile kendimi tanıttığım metin.
+* Hakkımda başlığı altında paragraf etiketi ile kendimi tanıttığım metin.
